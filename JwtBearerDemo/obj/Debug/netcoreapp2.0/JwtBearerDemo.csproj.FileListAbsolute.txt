@@ -1,0 +1,12 @@
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\bin\Debug\netcoreapp2.0\JwtBearerDemo.deps.json
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\bin\Debug\netcoreapp2.0\JwtBearerDemo.runtimeconfig.json
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\bin\Debug\netcoreapp2.0\JwtBearerDemo.runtimeconfig.dev.json
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\bin\Debug\netcoreapp2.0\JwtBearerDemo.dll
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\bin\Debug\netcoreapp2.0\JwtBearerDemo.pdb
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\obj\Debug\netcoreapp2.0\JwtBearerDemo.csprojResolveAssemblyReference.cache
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\obj\Debug\netcoreapp2.0\JwtBearerDemo.csproj.CoreCompileInputs.cache
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\obj\Debug\netcoreapp2.0\JwtBearerDemo.AssemblyInfoInputs.cache
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\obj\Debug\netcoreapp2.0\JwtBearerDemo.AssemblyInfo.cs
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\obj\Debug\netcoreapp2.0\JwtBearerDemo.dll
+E:\Study\Practice\Core\JwtBearerDemo\JwtBearerDemo\obj\Debug\netcoreapp2.0\JwtBearerDemo.pdb
