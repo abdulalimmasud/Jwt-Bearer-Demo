@@ -2,5 +2,6 @@
 /JwtBearerDemo/bin/Debug/netcoreapp2.0/JwtBearerDemo.pdb
 /JwtBearerDemo/obj/Debug/netcoreapp2.0/JwtBearerDemo.dll
 /JwtBearerDemo/obj/Debug/netcoreapp2.0/JwtBearerDemo.pdb
-
+/JwtBearerDemo/bin
+/JwtBearerDemo/obj
 .vs
